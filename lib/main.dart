@@ -1,11 +1,11 @@
 import 'package:expensetracker/pages/addinex.dart';
-import 'package:expensetracker/pages/authgate.dart';
+import 'package:expensetracker/authgate.dart';
 import 'package:expensetracker/pages/signuppage.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:expensetracker/pages/loginpage.dart';
 import 'package:expensetracker/pages/homepage.dart';
-import 'package:expensetracker/pages/firebase_options.dart';
+import 'package:expensetracker/firebase_options.dart';
 import 'package:expensetracker/pages/deleteentries.dart';
 
 

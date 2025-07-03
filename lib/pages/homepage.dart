@@ -1,13 +1,13 @@
-import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:expensetracker/pages/addinex.dart';
-import 'package:expensetracker/pages/deleteentries.dart';
+// import 'package:cloud_firestore/cloud_firestore.dart';
+// import 'package:expensetracker/pages/addinex.dart';
+// import 'package:expensetracker/pages/deleteentries.dart';
 import 'package:flutter/material.dart';
 import 'package:expensetracker/widgets/transactions.dart';
 import 'package:expensetracker/widgets/buttonsattop.dart';
 import 'package:expensetracker/widgets/buttonsatbottom.dart';
-import 'package:expensetracker/pages/graphpage.dart';
-import 'package:expensetracker/pages/settings.dart';
-import 'package:firebase_auth/firebase_auth.dart';
+// import 'package:expensetracker/pages/graphpage.dart';
+// import 'package:expensetracker/pages/settings.dart';
+// import 'package:firebase_auth/firebase_auth.dart';
 
 
 class HomePage extends StatelessWidget {
